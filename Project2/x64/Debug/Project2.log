@@ -1,0 +1,74 @@
+﻿  driver.cpp
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(36,55): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(43,45): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(47,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(59,53): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(61,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(61,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(61,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(61,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(61,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(62,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(62,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(62,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(62,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(62,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(63,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(63,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(63,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(63,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(63,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(65,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(65,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(65,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(65,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(65,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(66,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(66,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(66,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(66,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(66,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(67,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(67,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(67,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(67,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(67,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(69,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(69,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(69,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(69,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(69,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(70,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(70,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(70,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(70,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(70,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(71,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(71,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(71,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(71,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(71,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(73,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(73,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(73,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(73,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(73,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(74,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(74,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(74,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(74,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(74,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(75,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(75,40): warning C4267:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(75,40): warning C4267:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(75,40): warning C4267:             _Ty=GLuint
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(75,40): warning C4267:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(87,79): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(87,57): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(119,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(119,33): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(143,28): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(144,38): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(177,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\Project2\driver.cpp(179,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\CellReplication\x64\Debug\Project2.exe

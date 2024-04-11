@@ -18,6 +18,14 @@ I've been seeing "dripping" (as seen in the gif demo) visual anomalies but chaul
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/0e45f915-5f4a-4c39-bff9-7f49df8a88c0" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/0e45f915-5f4a-4c39-bff9-7f49df8a88c0" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/0e45f915-5f4a-4c39-bff9-7f49df8a88c0" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/0e45f915-5f4a-4c39-bff9-7f49df8a88c0" alt="Cornstarch <3" width="55" height="49">
+
+
+
 **Features**
 
 ![fractalTriangle-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/88aaf283-9c14-4935-a187-34eb19e2dde8)
+
+
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/d76bbd81-e0ce-460f-ad43-e86fef8ad59e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/d76bbd81-e0ce-460f-ad43-e86fef8ad59e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/d76bbd81-e0ce-460f-ad43-e86fef8ad59e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/d76bbd81-e0ce-460f-ad43-e86fef8ad59e" alt="Cornstarch <3" width="55" height="49">
+

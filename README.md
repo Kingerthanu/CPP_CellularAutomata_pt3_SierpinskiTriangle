@@ -14,6 +14,9 @@ I've been seeing "dripping" (as seen in the gif demo) visual anomalies but chaul
 
 **The Breakdown:**
 
+  A C++ Program In Which Uses OpenGL And GLSL In Order To Make A Window In Which To Represent Sirpinski's Triangles With.
+
+
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/eb9d0b27-6ad2-4f5d-b3c9-c0258d770c56" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/eb9d0b27-6ad2-4f5d-b3c9-c0258d770c56" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/eb9d0b27-6ad2-4f5d-b3c9-c0258d770c56" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt3_SierpinskiTriangle/assets/76754592/eb9d0b27-6ad2-4f5d-b3c9-c0258d770c56" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------
